@@ -1,2 +1,2 @@
 # git-python-api-practice
-created class of user and post , for basic understanding
+enter user name and get his gitlab projects and URL
